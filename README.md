@@ -7,3 +7,5 @@ We first collected some raw data of browsing over dark-net and then we ARP poiso
 Once we received the dataset we shrunk down the dimensions of the dataset to x and y axis and later plotted them against each other to get a proper classification graph.
 
 The accuracy that our model had was 87%.
+
+## WORK AS A PART OF SUMMER INTERNSHIP 2022 JUNE AT AVIGNON UNIVERSITY
